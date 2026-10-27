@@ -1,26 +1,33 @@
-# 💊 StayOn
+#  StayOn
 
-StayOn is an iOS application developed for the Swift Student Challenge to help users manage their medications and never miss a dose. The app allows users to schedule medications, receive reminders, track the remaining time until the next dose, and stay consistent with their medication routine.
+**StayOn** is an iOS application developed for the **Swift Student Challenge** to help users manage their medications and stay consistent with their medication routines.
 
-The application was built using SwiftUI with a focus on creating a simple, accessible, and user-friendly experience.
+The app allows users to schedule medications, receive dose reminders, track the time remaining until their next dose, and access medication information directly from their Home Screen.
 
-## Features
+Built with **SwiftUI** and **MVVM**, with a focus on simplicity, accessibility, and user experience.
 
-- Add and manage medications
-- Medication reminders and notifications
-- Countdown timer until the next dose
-- Home Screen widget with a live countdown
-- Simple and intuitive user interface
+---
 
-## Tech Stack
+##  Features
 
-- Swift
-- SwiftUI
-- WidgetKit
-- UserNotifications
-- MVVM
-- Xcode
+| Feature | Description |
+|---|---|
+| 💊 Medication Management | Add, schedule, and manage medications |
+| 🔔 Dose Reminders | Receive notifications for scheduled medications |
+| ⏳ Next Dose Countdown | Track the remaining time until the next dose |
+| 📱 Home Screen Widget | View the next dose countdown directly from the Home Screen |
+| 🎨 Intuitive UI | Clean and user-friendly interface built with SwiftUI |
 
-## Project
+##  Tech Stack
 
-This project was developed individually for the Swift Student Challenge.
+| Category | Technology |
+|---|---|
+| Language | Swift |
+| UI Framework | SwiftUI |
+| Architecture | MVVM |
+| Frameworks | WidgetKit, UserNotifications |
+| Development Environment | Xcode |
+
+##  Project
+
+Individually designed and developed as a submission for the **Apple Swift Student Challenge**.
